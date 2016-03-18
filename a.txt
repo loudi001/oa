@@ -5,3 +5,4 @@
 
 new object
 
+local new object
